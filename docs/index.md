@@ -1,89 +1,69 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Tamara Lukashova Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Tamara Lukashova
+
+
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
-</div>
+<a href="lukashovatamara@gmail.com">lukashovatamara@gmail.com</a>
+| | <a href="https://github.com/lukashovatoma">GitHub</a>
+| </div>
 
-<!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2017-2021`
+__Bachelors of Science in Data Science__,
+*Brigham Young University -Idaho*
+Idaho, Rexburg
 
-- Full academic scholarship with 4.0 GPA
+## Skills
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
-
-
-## Related Experience
-
-### Internships
-
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+__Applicable Skills__
+- MS Office Suits (Word, Excel, PowerPoint)
+- HTML, CSS, SQL.
+- Adobe Photoshop, Adobe Illustrator, Adobe After Effect.
+- Fluent in Russian, Ukrainian and English. 
 
 
-## Service and Work History
+## Work Experience
+`January 2018 - Present`
+__Lead AV Technician__,
+*Brigham Young University -Idaho*
 
-`2025-2027`
-__Math Tutor__, LDSBC
+- Oversaw, directed, as weel as trained 12 other employees.
+- Coordinated approximately 400 events per semester ranging from the university's student events as well as faculty events.
+- Worked closely with faculty and customers alike to provide audio and visual services for their events.
 
+`March 2017- May 2017`
+__Office Clerk__, 
+*The Church Of Jesus Christ of Later Day Saints*
 
-`2023-2025`
-__Service Missionary__, South Africa
+- Confidently resolved a variety of issues from a variety of customers in accordance with Church policies while being sensitive to the customer's needs.
+- I specifically worked closely with Church leaders to provide information about visasas well as travel inforamtion for over a thousand people in various countries.
+- Provided support and information to team members for a variety of specialized and technical customer service issues. 
 
+`January 2015 - June 2015`
+__Motion Designer__, 
+*Studio One*
+
+- Provided animation services for privet citizens as well as large companies.
+- Worked with the customers desires and provided several different designes to accommodate their needs.
+- Used programs such as Adobe Photoshop, Adobe Illustrator, Adobe After Effect. 
+
+## Volunteer Experience
+
+`July 2015 - February 2017`
+__Full-time Volunteer Representative__,
+*L'viv, Ukraine*
+
+- Prepared and taught weekly training meetings to new volunteers to promote efficiency within groups.
+- Provided english classes to approximately 50 peoploe per week.
 
 
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
 
